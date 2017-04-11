@@ -56,6 +56,8 @@ Here's a walkthrough of implemented user stories:
 <img src='https://github.com/darewreck54/final_project/blob/master/week5/gif/app.gif' title='Initial Flow of app' width='' alt='Video Walkthrough' />
 <img src='https://github.com/darewreck54/final_project/blob/master/week5/gif/timeline_map.gif' title="Experimenting with timeline and maps" width='' alt='Video Walkthrough' />
 
+Real Repo is a bitbucket account: https://bitbucket.org/dare-wreck/finalproject
+
 This sums up the basic layout and structure we wanted to set up.  We were also experimenting with how to use timeline and maps which we will bring back into the project.
 
 
